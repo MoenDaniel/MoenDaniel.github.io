@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35f140d3.chunk.css",
+    "main.js": "/static/js/main.81488aad.chunk.js",
+    "main.js.map": "/static/js/main.81488aad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8a7818fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8a7818fd.js.map",
+    "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
+    "static/js/2.27f22cd8.chunk.js": "/static/js/2.27f22cd8.chunk.js",
+    "static/js/2.27f22cd8.chunk.js.map": "/static/js/2.27f22cd8.chunk.js.map",
+    "static/js/3.c966c7f6.chunk.js": "/static/js/3.c966c7f6.chunk.js",
+    "static/js/3.c966c7f6.chunk.js.map": "/static/js/3.c966c7f6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.35f140d3.chunk.css.map": "/static/css/main.35f140d3.chunk.css.map",
+    "static/js/2.27f22cd8.chunk.js.LICENSE.txt": "/static/js/2.27f22cd8.chunk.js.LICENSE.txt",
+    "static/media/banner.gif": "/static/media/banner.52f63748.gif",
+    "static/media/carousel1.jpg": "/static/media/carousel1.a91cf647.jpg",
+    "static/media/carousel2.jpg": "/static/media/carousel2.5be53075.jpg",
+    "static/media/carousel3.jpg": "/static/media/carousel3.ced0ae8f.jpg",
+    "static/media/carousel4.jpg": "/static/media/carousel4.a3f8c921.jpg",
+    "static/media/carousel5.jpg": "/static/media/carousel5.a1b45141.jpg",
+    "static/media/play.gif": "/static/media/play.8d459df7.gif",
+    "static/media/Home.css": "/static/media/ps1logo.43ee75f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a7818fd.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.27f22cd8.chunk.js",
+    "static/css/main.35f140d3.chunk.css",
+    "static/js/main.81488aad.chunk.js"
+  ]
+}
