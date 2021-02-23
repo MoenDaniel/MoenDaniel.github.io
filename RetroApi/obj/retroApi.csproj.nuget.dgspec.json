@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/d/Documents/Skole/Westerdals/5. Semester/Webutvikling 3/Eksamen/RetroApi/retroApi.csproj": {}
+  },
+  "projects": {
+    "/Users/d/Documents/Skole/Westerdals/5. Semester/Webutvikling 3/Eksamen/RetroApi/retroApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/d/Documents/Skole/Westerdals/5. Semester/Webutvikling 3/Eksamen/RetroApi/retroApi.csproj",
+        "projectName": "retroApi",
+        "projectPath": "/Users/d/Documents/Skole/Westerdals/5. Semester/Webutvikling 3/Eksamen/RetroApi/retroApi.csproj",
+        "packagesPath": "/Users/d/.nuget/packages/",
+        "outputPath": "/Users/d/Documents/Skole/Westerdals/5. Semester/Webutvikling 3/Eksamen/RetroApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/d/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
